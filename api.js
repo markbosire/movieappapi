@@ -9,7 +9,7 @@ const Review = require('./models/Review');
 const Collection = require('./models/Collection');
 
 const app = express();
-const port = 4000;
+const port = 5000;
 
 // Connect to MongoDB
 const uri = "mongodb+srv://markbosirekenyariri:09kumamoto.@cluster0.g3nicnh.mongodb.net/my_movie_app_db?retryWrites=true&w=majority";
